@@ -6,3 +6,11 @@
 <section align = 'center'>
 <a href = 'https://mobile-games.netlify.app/' target="_blank">Mobile Games</a>
 </section>
+
+- [ ] Add a simple search feature to search content throughout website
+- [ ] Add database for all content in website
+- [ ] Add API that uses database
+- [ ] Add app that makes it easier to add content to database (Might not be necessary for the needs of this particular website?)
+- [ ] Make custom pages for app and API and add pages to website
+- [ ] Make site responsiveness more efficient
+- [X] Used HTML and CSS to build simple website to host content about mobile applications
